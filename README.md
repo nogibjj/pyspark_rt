@@ -7,7 +7,7 @@ This project utilizes Apache Spark, an open-source distributed computing system 
 ## Dataset
 The dataset we're using contains customer reviews from an online retail platform. It includes detailed information such as the title of the product, the review text, ratings, and categorical classifications of the clothing items.
 
-You can find the dataset at [Online Retail Dataset](#) (replace with the actual hyperlink to the dataset).
+You can find the dataset at [Online Retail Dataset](https://www.kaggle.com/datasets/uzair01/amazon-books/)
 
 ## Data Processing
 The Python script `main.py` performs the following operations on the dataset:
