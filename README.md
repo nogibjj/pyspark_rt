@@ -17,6 +17,8 @@ The Python script `main.py` performs the following operations on the dataset:
 3. **Data Transformation**: Groups the filtered data by 'Cloth_class' and counts the number of high-rated items in each class.
 4. **Report Generation**: Creates a summary report with the results from the data filtering and transformation steps, then saves it to a text file.
 
+![main py - pyspark_rt  Codespaces_ improved chainsaw  - Visual Studio Code](https://github.com/nogibjj/pyspark_rt/assets/143838819/2374a00d-08ee-4ccc-84e0-5fdca91ffb95)
+
 ## Usage
 To run the PySpark script, use the following command:
 
